@@ -4,7 +4,7 @@ body {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    color: blue; /* Turns all text words blue */
+    color: blue; 
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 20px;
@@ -50,7 +50,7 @@ hr {
     border: 1px solid black;
 }
 
-/* SHS DAYS PAGE */
+
 
 .shs-container {
     background-color: lightblue;
